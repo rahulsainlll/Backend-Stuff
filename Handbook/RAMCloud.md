@@ -1,0 +1,3 @@
+RAMCloud is a high-performance, distributed storage system created at Stanford University. It's designed to handle large-scale applications, offering low-latency access to data by storing it entirely in memory across a cluster of machines. With its focus on speed and scalability, RAMCloud is ideal for applications like web services, real-time analytics, and transaction processing. Key features include in-memory storage for fast access, high throughput for both reading and writing data, fault tolerance through replication, and scalability for handling large datasets. Overall, RAMCloud provides a robust solution for applications requiring rapid and reliable data access.
+
+[The RAMCloud Storage System](https://dl.acm.org/doi/10.1145/2806887)
