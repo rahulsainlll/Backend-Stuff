@@ -1,4 +1,8 @@
-In this post I explore five architecture patterns on how threads and connections are managed. Before I do that, let us clear up some definitions so we are on the same page.
+## Connections in backend applications
+
+Lets looks at some definations before diving into architecture
+
+###  Definations
 
 ### Listener
 
